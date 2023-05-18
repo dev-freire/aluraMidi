@@ -20,6 +20,7 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .teclado {
